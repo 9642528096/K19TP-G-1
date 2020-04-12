@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>home of project</title>
+<link rel="stylesheet" href="hom.css">
+</head>
+<body bgcolor="cyan">
+	<header>
+		<div class="wrapper">
+		<div class="logo">
+		<img src="e.jpg" alt=""></div>
+		<table border="1" width="100%">
+		<caption><b><i>we providing sports</i></b>
+		<tr>
+		<th>agenda</th>
+		<th>content</th>
+		</tr>
+		<tr>
+		<td><a href="cricket.html"><h1>cricket</h1></a></td>
+		<td><strong>click on cricket</strong> for mor information and registration to join in club for playing
+		<strong>cricket</strong></td></tr>
+		<tr><td><a href="cricket.html"><h1>indoor games<h1></a></td>
+		<td><strong>click on indoor games</strong> for mor information and registration to join in club for playing
+		<strong>indoor games</strong></td></tr>
+		<tr><td><a href="cricket.html"><h1>volley ball<h1></a></td>
+		<td><strong>click on batminton</strong> for mor information and registration to join in club for playing
+		<strong>batminton</strong></td></tr>
+		<tr><td><a href="cricket.html"><h1>batminton</h1></a></td>
+		<td><strong>click on batminton</strong> for mor information and registration to join in club for playing
+		<strong>batminton</strong></td></tr>
+		<tr><td><a href="cricket.html"><h1>foot ball</h1></a></td>
+		<td><strong>click on foot ball</strong> for mor information and registration to join in club for playing
+		<strong>foot ball</strong></td></tr>
+		<tr><td><a href="cricket.html"><h1>rugby</h1></a></td>
+		<td><strong>click on rugby</strong> for mor information and registration to join in club for playing
+		<strong>rugby</strong></td></tr>
+		</table>
+</body>
+</html>
