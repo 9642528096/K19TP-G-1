@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	width: 1170px;
+	margin:auto;
+}
+header{
+	
+	height: 100vh;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-position: center center;
+	position:relative;
+}
+.nav-area{
+	float:left;
+	list-style:none;
+	margin-top: 30px;
+}
+.nav-area li a{
+	color: black;
+	text-decoration:none;
+	padding:5px 20px;
+	font-family:poppins;
+	font-size:16px;
+}
+.nav-area li a:hover{
+	background: orange;
+	color= #fff;
+}
+.logo img{
+	width: 100px;
+	float: left;
+	height: auto;
+}
