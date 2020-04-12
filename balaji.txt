@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lucky sports club</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<div class="wrapper">
+		<div class="logo">
+		<img src="e.jpg" alt=""></div>
+		<ul class="nav-area">
+			<li><a href="home.html">HOME</a></li>
+			<li><a href="login.html">LOGIN</a></li>
+			<li><a href="ubbu_14.html">MORE ABOUT</a></li>
+
+		</ul>
+		</div>
+		
+		<div class="welcome-text">
+			<h1>lucky sports club</h1>
+			<a href="ubbu.html">contact use</a>
+		</div>
+</body>
+</html>
