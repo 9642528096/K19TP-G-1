@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> text in put</title>
+</head>
+<body><h1>register here for joining</h1>
+<form>
+first name:<input type="text" name="first name"/>
+<br>
+last name:<input type="text" name="last name"/>
+<br>
+mobile_no:<input type="text" name="mobile_no"/>
+<br>
+email_ID:<input type="text" name="email_ID"/>
+<br>
+set_your_password:<input type="password" name="set_your_password" 
+ size=100% max length=12/>
+<br>
+address :<br>  
+<textarea rows="5" cols="50" name="description"
+placeholder="enter address here...">
+</textarea>
+<body> select here which games you want to play</body>
+<br>
+<input type="checkbox" name="cricket" value="on">cricket
+<input type="checkbox" name="volley ball" value="on">valley ball
+<input type="checkbox" name="batminton" value="on">batminton
+<input type="checkbox" name="ruby" value="on">ruby
+<input type="checkbox" name="indoor games" value="no">indoor games
+<input type="checkbox" name="foot ball" value="on">foot ball
+</form>
+<body>
+click here for the submit
+<input type="button" onclick="submit()" value="submit"/>
+</body>
+</body>
+</html>
