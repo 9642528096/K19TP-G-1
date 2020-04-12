@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>hello</title>
+<table border="1" width="100%">
+<tr>
+<th>group_members</th>
+<th>mobile_no:-</th>
+<th>games</th>
+</tr>
+<tr>
+<td>balaji</td>
+<td>9390000682</td>
+<td>cricket and indoor games</tr>
+</tr>
+<tr>
+<td>upendra</td>
+<td>9642528096</td>
+<td>volley ball and ruby</td>
+</tr>
+<tr>
+<td>sarath</td>
+<td>9603944811</td>
+<td>batminton and football</td>
+</table>
+</body>
+</html>
