@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>cricket</title>
+<link rel="stylesheet" href="cri.css">
+</head>
+<body>
+<header>
+		<div class="wrapper">
+		<div class="logo">
+		<img src="e.jpg" alt=""></div>
+		<ul class="nav-area">
+			<li><a href="ubbu_8.html">REGISTRATION</a></li>
+			<li><a href="login.html">LOGIN</a></li>
+			<li><a href="ubbu_14">MORE ABOUT</a></li>
+			<li><a href="ubbu.html">CONTACT US</a></li>
+		</ul>
+		</div>
+		<div class="welcome-text">
+			<h1>lucky SPORTS club</h1>
+		</div>
+</header>
+</body>
+</html>
